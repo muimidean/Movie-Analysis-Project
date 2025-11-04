@@ -1,9 +1,15 @@
-# ---Datasets---
-*.csv
-*.tsv
-*.db
+# ---Allow certain files in Data folder---
+!Data/*.csv
+!Data/*.xlsx
+!Data/*.db
+!Data/*.tsv
 
-# ---Output file---
+# ---Datasets---
 *.pptx
+*.tmp
+*.log
 *.pdf
 *.docx
+.env
+.vscode/
+.idea/
