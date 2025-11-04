@@ -1,0 +1,10 @@
+# ---Datasets---
+# Data/
+*.csv
+*.tsv
+*.db
+
+# ---Output file---
+*.pptx
+*.pdf
+*.docx
