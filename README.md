@@ -72,12 +72,12 @@ Our analysis highlights the key factors driving movie success in the film indust
 ## For More Information
 For additional details, questions, or collaboration inquiries, please contact:
 
-Email: muimidean@gmail.com
+muimidean@gmail.com
 
-Email: mathengealice709@gmail.com
+mathengealice709@gmail.com
 
-Email: muthoniwinnie573@gmail.com
+muthoniwinnie573@gmail.com
 
-Email: mwendemichelle4@gmail.com
+mwendemichelle4@gmail.com
 
-Email: labanltarasin@gmail.com
+labanltarasin@gmail.com
