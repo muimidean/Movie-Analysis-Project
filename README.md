@@ -1,6 +1,6 @@
 # Movie Analysis Project
 ## Overview
-We analyze movie industry data to help a new studio make informed production decisions. This project explores how factors such as budget, ratings, vote counts, genres and studio performance influence box office success, providing data-driven insights to guide profitable and audience-attracting film investment.
+We analyzed movie industry data to help a new studio make informed production decisions. This project explores how factors such as budget, ratings, vote counts, genres and studio performance influence box office success, providing data-driven insights to guide profitable and audience-attracting film investment.
 
 ## Objectives
 * Determine the relationship between production budget and profitability.
@@ -10,29 +10,29 @@ We analyze movie industry data to help a new studio make informed production dec
 * Examine the combined influence of rating, vote counts and budget on worldwide revenue.
   
 ## Data Understanding 
-We obtain our dataset from the [Github](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3.git.) To streamline data management, we create a new SQLite dataset name movie_data.db and store it in the Data folder, consolidating only the relevant tables required for analysis. 
+We obtaines our dataset from the [Github](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3.git.) To streamline data management, we created a new SQLite dataset name movie_data.db and store it in the Data folder, consolidating only the relevant tables required for analysis. 
 
 ## Data Preparation
-We perform basic data inspection to ensure data quality. This included exploring every table in the dataset.
+We performed basic data inspection to ensure data quality. This included exploring every table in the dataset.
 
 ## Data Cleaning
-We clean the dataset to ensure accuracy and consistency before analysis. This involves handling missing values, verifying datatypes, checking duplicates and filtering the data.
+We cleaned the dataset to ensure accuracy and consistency before analysis. This involves handling missing values, verifying datatypes, checking duplicates and filtering the data.
 
 ## Feature Engineering
-We perform feature engineering to prepare the dataset for analysis. This involved merging the tables using the key variables such as movie_id, movie titles and total_gross. The merged dataset allows us to analyze relationships across different aspects of movie performance effectively.
+We performed feature engineering to prepare the dataset for analysis. This involved merging the tables using the key variables such as movie_id, movie titles and total_gross. The merged dataset allows us to analyze relationships across different aspects of movie performance effectively.
 
 ## Data Analysis
-we perform univariate, bivariate and multivariate analysis.
+we performed univariate, bivariate and multivariate analysis.
 
 ## Findings 
-We check for the distribution of the most prevalent genres
+We checked for the distribution of the most prevalent genres
 
 <img width="800" height="590" alt="image" src="https://github.com/user-attachments/assets/99843b38-8fa3-45cb-906f-739b5c15d258" />
 
 
 The plot shows that the most profitable movie genres combine action and adventure with elements like sci-fi, fantasy, comedy or animation. These blends attract broad audiences and generate the highest returns, indicating that films mixing excitement, imagination and humor have the greatest commercial appeal.
 
-We check for the top performing studios
+We checked for the top performing studios
 
 <img width="800" height="590" alt="image" src="https://github.com/user-attachments/assets/8e1b28b6-7284-499b-91fe-9c77bc2b008c" />
 
